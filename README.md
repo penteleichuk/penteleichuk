@@ -25,4 +25,6 @@
 <img alt="Jest" src="https://img.shields.io/badge/-jest&nbsp;/&nbsp;Unit&nbsp;Test-282a36?style=for-the-badge&amp;logo=jest"/>
 <img alt="GitHub" src="https://img.shields.io/badge/-git&nbsp;/&nbsp;github-282a36?style=for-the-badge&amp;logo=github"/>
 <img alt="Docker" src="https://img.shields.io/badge/-docker-282a36?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ED"/>
+<img alt="Photoshop" src="https://img.shields.io/badge/-photoshop-282a36?style=for-the-badge&amp;logo=adobe-photoshop&amp;logoColor=31A8FF"/>
+<img alt="Figma" src="https://img.shields.io/badge/-figma-282a36?style=for-the-badge&amp;logo=figma&amp;logoColor=31A8FF"/>
 </div>
