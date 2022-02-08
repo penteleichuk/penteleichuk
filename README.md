@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=vasyok28&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
 
-### Hi there 👋, I am Frontend Developer
+### Hi there 👋, I'm Frontend Developer
 
 > Looking for a good specialist ? 👇
 ### Contacts:
