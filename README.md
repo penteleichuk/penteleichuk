@@ -4,12 +4,12 @@
 
 > Looking for a good specialist ? 👇
 
-### Contacts:
+### 📫 Contacts:
 [![Telegram](https://img.shields.io/badge/-telegram-0273B2?style=for-the-badge&logo=telegram)](https://t.me/vasyok28)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-0273B2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vasyok28/)
 <br>
 <br>
-### Skills: <img align="right" src="https://www.codewars.com/users/vasyok28/badges/small">
+### 🚀 Skills: <img align="right" src="https://www.codewars.com/users/vasyok28/badges/small">
 <div align="left">
 <img alt="React" src="https://img.shields.io/badge/-react-282a36?style=for-the-badge&amp;logo=react"/>
 <img alt="Redux" src="https://img.shields.io/badge/-redux-282a36?style=for-the-badge&amp;logo=redux&amp;logoColor=6F3FB3"/>
@@ -29,6 +29,19 @@
 <img alt="Photoshop" src="https://img.shields.io/badge/-photoshop-282a36?style=for-the-badge&amp;logo=adobe-photoshop&amp;logoColor=31A8FF"/>
 <img alt="Figma" src="https://img.shields.io/badge/-figma-282a36?style=for-the-badge&amp;logo=figma&amp;logoColor=31A8FF"/>
 </div>
+<br />
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	  <li><b>OS:</b> macOS Monterey 12.3.1</li>
+	    <li><b>Laptop: </b> MacBook Pro M1</li>
+  	  <li><b>Browser: </b> Firefox Web Browser</li>
+	    <li><b>Terminal: </b> iTerm</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Linkedin and Twitter.</li>
+	</ul>	
+</details>
 
 
 
