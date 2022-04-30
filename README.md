@@ -3,7 +3,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Frontend Developer
 
 > Looking for a good specialist ? 👇
-<img src="https://www.codewars.com/users/vasyok28/badges/small">
 
 ### Contacts:
 [![Telegram](https://img.shields.io/badge/-telegram-0273B2?style=for-the-badge&logo=telegram)](https://t.me/vasyok28)
@@ -30,3 +29,6 @@
 <img alt="Photoshop" src="https://img.shields.io/badge/-photoshop-282a36?style=for-the-badge&amp;logo=adobe-photoshop&amp;logoColor=31A8FF"/>
 <img alt="Figma" src="https://img.shields.io/badge/-figma-282a36?style=for-the-badge&amp;logo=figma&amp;logoColor=31A8FF"/>
 </div>
+
+
+<img align="right" src="https://www.codewars.com/users/vasyok28/badges/small">
