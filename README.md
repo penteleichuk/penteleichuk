@@ -34,7 +34,7 @@
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	  <li><b>OS:</b> macOS Monterey 12.3.1</li>
+  	  <li><b>OS:</b> macOS Monterey 12.34</li>
 	    <li><b>Laptop: </b> MacBook Pro M1</li>
   	  <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> iTerm</li>
