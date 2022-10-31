@@ -12,6 +12,7 @@
 ### 🚀 Skills: <img align="right" src="https://www.codewars.com/users/vasyok28/badges/small">
 <div align="left">
 <img alt="React" src="https://img.shields.io/badge/-react-282a36?style=for-the-badge&amp;logo=react"/>
+<img alt="Native" src="https://img.shields.io/badge/-react-282a36?style=for-the-badge&amp;logo=react"/>
 <img alt="Redux" src="https://img.shields.io/badge/-redux-282a36?style=for-the-badge&amp;logo=redux&amp;logoColor=6F3FB3"/>
 <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-282a36?style=for-the-badge&amp;logo=Storybook"/>
 <img alt="JS" src="https://img.shields.io/badge/-javascript-282a36?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E"/>
