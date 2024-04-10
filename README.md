@@ -11,7 +11,7 @@
 <br>
 ### 🔨 Skills: 
 <div align="left">
-<img alt="React" src="https://img.shields.io/badge/-react-21252E?style=for-the-badge&amp;logo=react&amp;logoColor=F05237"/>
+<img alt="React" src="https://img.shields.io/badge/-react-F7F7F7?style=for-the-badge&amp;logo=react&amp;logoColor=F05237"/>
 <img alt="Native" src="https://img.shields.io/badge/-native-F7F7F7?style=for-the-badge&amp;logo=react&amp;logoColor=F05237"/>
 <img alt="Redux" src="https://img.shields.io/badge/-redux-F7F7F7?style=for-the-badge&amp;logo=redux&amp;logoColor=F05237"/>
 <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-F7F7F7?style=for-the-badge&amp;logo=Storybook&amp;logoColor=F05237"/>
