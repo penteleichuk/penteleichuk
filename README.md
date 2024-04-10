@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=penteleichuk&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=penteleichuk&count_private=true&show_icons=true&theme=default&hide_border=true" />
 
 ### Hi there 👀, I'm Front-end Developer
 
@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/-linkedin-0273B2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vasyok28/)
 <br>
 <br>
-### 🚀 Skills: <img align="right" src="https://www.codewars.com/users/vasyok28/badges/small">
+### 🚀 Skills: 
 <div align="left">
 <img alt="React" src="https://img.shields.io/badge/-react-0273B2?style=for-the-badge&amp;logo=react"/>
 <img alt="Native" src="https://img.shields.io/badge/-native-0273B2?style=for-the-badge&amp;logo=react"/>
@@ -35,7 +35,7 @@
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	  <li><b>OS:</b> macOS Sonoma 14.1.2</li>
+  	  <li><b>OS:</b> macOS Sonoma 14.4.1</li>
 	    <li><b>Laptop: </b> MacBook Pro M1</li>
   	  <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> iTerm</li>
