@@ -5,30 +5,30 @@
 > Looking for a good specialist ? 👇
 
 ### 📫 Contacts:
-[![Telegram](https://img.shields.io/badge/-telegram-444D58?style=for-the-badge&logo=telegram)](https://t.me/vasyok28)
-[![LinkedIn](https://img.shields.io/badge/-linkedin-444D58?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/penteleichuk/)
+[![Telegram](https://img.shields.io/badge/-telegram-F7F7F7?style=for-the-badge&logo=telegram&amp;logoColor=F05237)](https://t.me/vasyok28)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-F7F7F7?style=for-the-badge&logo=linkedin&amp;logoColor=F05237)](https://www.linkedin.com/in/penteleichuk/)
 <br>
 <br>
 ### 🚀 Skills: 
 <div align="left">
-<img alt="React" src="https://img.shields.io/badge/-react-DAE5FB?style=for-the-badge&amp;logo=react&amp;logoColor=5894EF"/>
-<img alt="Native" src="https://img.shields.io/badge/-native-DAE5FB?style=for-the-badge&amp;logo=react&amp;logoColor=5894EF"/>
-<img alt="Redux" src="https://img.shields.io/badge/-redux-DAE5FB?style=for-the-badge&amp;logo=redux&amp;logoColor=5894EF"/>
-<img alt="Storybook" src="https://img.shields.io/badge/-Storybook-DAE5FB?style=for-the-badge&amp;logo=Storybook&amp;logoColor=5894EF"/>
-<img alt="JS" src="https://img.shields.io/badge/-javascript-DAE5FB?style=for-the-badge&amp;logo=javascript&amp;logoColor=5894EF"/>
-<img alt="TS" src="https://img.shields.io/badge/-typescript-DAE5FB?style=for-the-badge&amp;logo=typescript&amp;logoColor=5894EF"/>
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-DAE5FB?style=for-the-badge&amp;logo=php&amp;logoColor=5894EF"/>
-<img alt="Laravel" src="https://img.shields.io/badge/-laravel-DAE5FB?style=for-the-badge&amp;logo=laravel&amp;logoColor=5894EF"/>
-<img alt="HTML" src="https://img.shields.io/badge/-html5-DAE5FB?style=for-the-badge&amp;logo=html5&amp;logoColor=5894EF"/>
-<img alt="CSS" src="https://img.shields.io/badge/-css3_/_scss_/_sass_/_BEM-DAE5FB?style=for-the-badge&amp;logo=css3&amp;logoColor=5894EF"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap&nbsp;/&nbsp;material_ui-DAE5FB?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=5894EF"/>
-<img alt="Jquery" src="https://img.shields.io/badge/-jquery-DAE5FB?style=for-the-badge&amp;logo=jquery&amp;logoColor=5894EF"/>
-<img alt="API" src="https://img.shields.io/badge/-rest_api-DAE5FB?style=for-the-badge&amp;logo=fastapi&amp;logoColor=5894EF"/>
-<img alt="Jest" src="https://img.shields.io/badge/-jest&nbsp;/&nbsp;Unit&nbsp;Test-DAE5FB?style=for-the-badge&amp;logoColor=5894EF"/>
-<img alt="GitHub" src="https://img.shields.io/badge/-git&nbsp;/&nbsp;github-DAE5FB?style=for-the-badge&amp;logo=github&amp;logoColor=5894EF"/>
-<img alt="Docker" src="https://img.shields.io/badge/-docker-DAE5FB?style=for-the-badge&amp;logo=docker&amp;logoColor=5894EF"/>
-<img alt="Photoshop" src="https://img.shields.io/badge/-photoshop-DAE5FB?style=for-the-badge&amp;logo=adobe-photoshop&amp;logoColor=5894EF"/>
-<img alt="Figma" src="https://img.shields.io/badge/-figma-DAE5FB?style=for-the-badge&amp;logo=figma&amp;logoColor=5894EF"/>
+<img alt="React" src="https://img.shields.io/badge/-react-F7F7F7?style=for-the-badge&amp;logo=react&amp;logoColor=F05237"/>
+<img alt="Native" src="https://img.shields.io/badge/-native-F7F7F7?style=for-the-badge&amp;logo=react&amp;logoColor=F05237"/>
+<img alt="Redux" src="https://img.shields.io/badge/-redux-F7F7F7?style=for-the-badge&amp;logo=redux&amp;logoColor=F05237"/>
+<img alt="Storybook" src="https://img.shields.io/badge/-Storybook-F7F7F7?style=for-the-badge&amp;logo=Storybook&amp;logoColor=F05237"/>
+<img alt="JS" src="https://img.shields.io/badge/-javascript-F7F7F7?style=for-the-badge&amp;logo=javascript&amp;logoColor=F05237"/>
+<img alt="TS" src="https://img.shields.io/badge/-typescript-F7F7F7?style=for-the-badge&amp;logo=typescript&amp;logoColor=F05237"/>
+<img alt="PHP" src="https://img.shields.io/badge/-PHP-F7F7F7?style=for-the-badge&amp;logo=php&amp;logoColor=F05237"/>
+<img alt="Laravel" src="https://img.shields.io/badge/-laravel-F7F7F7?style=for-the-badge&amp;logo=laravel&amp;logoColor=F05237"/>
+<img alt="HTML" src="https://img.shields.io/badge/-html5-F7F7F7?style=for-the-badge&amp;logo=html5&amp;logoColor=F05237"/>
+<img alt="CSS" src="https://img.shields.io/badge/-css3_/_scss_/_sass_/_BEM-F7F7F7?style=for-the-badge&amp;logo=css3&amp;logoColor=F05237"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap&nbsp;/&nbsp;material_ui-F7F7F7?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=F05237"/>
+<img alt="Jquery" src="https://img.shields.io/badge/-jquery-F7F7F7?style=for-the-badge&amp;logo=jquery&amp;logoColor=F05237"/>
+<img alt="API" src="https://img.shields.io/badge/-rest_api-F7F7F7?style=for-the-badge&amp;logo=fastapi&amp;logoColor=F05237"/>
+<img alt="Jest" src="https://img.shields.io/badge/-jest&nbsp;/&nbsp;Unit&nbsp;Test-F7F7F7?style=for-the-badge&amp;logoColor=F05237"/>
+<img alt="GitHub" src="https://img.shields.io/badge/-git&nbsp;/&nbsp;github-F7F7F7?style=for-the-badge&amp;logo=github&amp;logoColor=F05237"/>
+<img alt="Docker" src="https://img.shields.io/badge/-docker-F7F7F7?style=for-the-badge&amp;logo=docker&amp;logoColor=F05237"/>
+<img alt="Photoshop" src="https://img.shields.io/badge/-photoshop-F7F7F7?style=for-the-badge&amp;logo=adobe-photoshop&amp;logoColor=F05237"/>
+<img alt="Figma" src="https://img.shields.io/badge/-figma-F7F7F7?style=for-the-badge&amp;logo=figma&amp;logoColor=F05237"/>
 </div>
 <br />
 <details>	
