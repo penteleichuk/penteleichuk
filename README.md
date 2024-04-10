@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=penteleichuk&count_private=true&show_icons=true&theme=default&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=penteleichuk&count_private=true&show_icons=true&theme=swift&hide_border=true" />
 
 ### Hi there 👀, I'm Front-end Developer
 
