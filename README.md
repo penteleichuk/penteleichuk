@@ -1,15 +1,15 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=penteleichuk&count_private=true&show_icons=true&theme=swift&hide_border=true" />
 
-### Hi there 👀, I'm Front-end Developer
+### Hi there 🙋🏻‍♂️, I'm Front-end Developer
 
-> Looking for a good specialist ? 👇
+> Looking for a good specialist ? 👇🏻
 
-### 📫 Contacts:
+### 📡 Contacts:
 [![Telegram](https://img.shields.io/badge/-telegram-F7F7F7?style=for-the-badge&logo=telegram&amp;logoColor=F05237)](https://t.me/vasyok28)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-F7F7F7?style=for-the-badge&logo=linkedin&amp;logoColor=F05237)](https://www.linkedin.com/in/penteleichuk/)
 <br>
 <br>
-### 🚀 Skills: 
+### 🔨 Skills: 
 <div align="left">
 <img alt="React" src="https://img.shields.io/badge/-react-F7F7F7?style=for-the-badge&amp;logo=react&amp;logoColor=F05237"/>
 <img alt="Native" src="https://img.shields.io/badge/-native-F7F7F7?style=for-the-badge&amp;logo=react&amp;logoColor=F05237"/>
@@ -33,7 +33,7 @@
 <br />
 <details>	
   <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  <summary><b>🕹️ Things I use to get stuff done</b></summary>
   	<ul>
   	  <li><b>OS:</b> macOS Sonoma 14.4.1</li>
 	    <li><b>Laptop: </b> MacBook Pro M1</li>
