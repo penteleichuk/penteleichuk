@@ -5,8 +5,8 @@
 > Looking for a good specialist ? 👇
 
 ### 📫 Contacts:
-[![Telegram](https://img.shields.io/badge/-telegram-0273B2?style=for-the-badge&logo=telegram)](https://t.me/vasyok28)
-[![LinkedIn](https://img.shields.io/badge/-linkedin-0273B2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/penteleichuk/)
+[![Telegram](https://img.shields.io/badge/-telegram-3080ED?style=for-the-badge&logo=telegram)](https://t.me/vasyok28)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-444D58?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/penteleichuk/)
 <br>
 <br>
 ### 🚀 Skills: 
