@@ -9,7 +9,7 @@
 > Looking for a good specialist ? 👇🏻
 
 ### 📡 Contacts:
-[![Telegram](https://img.shields.io/badge/-telegram-4D89D7?style=for-the-badge&logo=telegram)](https://t.me/vasyok28)
+[![Telegram](https://img.shields.io/badge/-telegram-4D89D7?style=for-the-badge&logo=telegram&amp;logoColor=FFFFFF)](https://t.me/vasyok28)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-4D89D7?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/penteleichuk/)
 <br>
 <br>
