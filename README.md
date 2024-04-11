@@ -81,9 +81,9 @@
   <img alt="API" src="https://img.shields.io/badge/-rest_api-F7F7F7?style=for-the-badge&amp;logo=fastapi&amp;logoColor=F05237" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-jest&nbsp;/&nbsp;Unit&nbsp;Test-24292F?style=for-the-badge&amp;logoColor=4D89D7" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-jest&nbsp;/&nbsp;Unit&nbsp;Test-F7F7F7?style=for-the-badge&amp;logoColor=F05237" />
-  <img alt="Jest" src="https://img.shields.io/badge/-jest&nbsp;/&nbsp;Unit&nbsp;Test-F7F7F7?style=for-the-badge&amp;logoColor=F05237" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-jest&nbsp;/&nbsp;Unit&nbsp;Test-24292F?style=for-the-badge&amp;logo=jest&amp;logoColor=4D89D7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-jest&nbsp;/&nbsp;Unit&nbsp;Test-F7F7F7?style=for-the-badge&amp;logo=jest&amp;logoColor=F05237" />
+  <img alt="Jest" src="https://img.shields.io/badge/-jest&nbsp;/&nbsp;Unit&nbsp;Test-F7F7F7?style=for-the-badge&amp;logo=jest&amp;logoColor=F05237" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-git&nbsp;/&nbsp;github-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=4D89D7" />
