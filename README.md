@@ -4,16 +4,16 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=penteleichuk&count_private=true&show_icons=true&theme=swift&hide_border=true" />
 </picture>
 
-### Hi there 🙋🏻‍♂️, I'm Front-end Developer
+### Hi there <picture><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" /></picture>, I'm Front-end Developer
 
-> Looking for a good specialist ? 👇🏻
+> Looking for a good specialist ? <picture><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Medium-Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Medium-Light Skin Tone" width="25" height="25" /></picture>
 
-### 📡 Contacts:
+### <picture><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /></picture> Contacts:
 [![Telegram](https://img.shields.io/badge/-telegram-4D89D7?style=for-the-badge&logo=telegram&amp;logoColor=FFFFFF)](https://t.me/vasyok28)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-4D89D7?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/penteleichuk/)
 <br>
 <br>
-### 🔨 Skills: 
+### <picture><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="25" height="25" /></picture> Skills: 
 <div align="left">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-react-24292F?style=for-the-badge&amp;logo=react&amp;logoColor=4D89D7" />
@@ -109,7 +109,7 @@
 <br />
 <details>	
   <br />
-  <summary><b>🕹️ Things I use to get stuff done</b></summary>
+  <summary><b><picture><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="16" height="16" /></picture> Things I use to get stuff done</b></summary>
   	<ul>
   	  <li><b>OS:</b> macOS Sonoma 14.4.1</li>
 	    <li><b>Laptop: </b> MacBook Pro M1</li>
