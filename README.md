@@ -36,6 +36,11 @@
   <img alt="Native" src="https://img.shields.io/badge/-react&nbsp;native-F7F7F7?style=for-the-badge&amp;logo=preact&amp;logoColor=F05237" />
 </picture>
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-nextjs-24292F?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=4D89D7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-nextjs-F7F7F7?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=F05237" />
+  <img alt="Next" src="https://img.shields.io/badge/-nextjs-F7F7F7?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=F05237" />
+</picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-redux-24292F?style=for-the-badge&amp;logo=redux&amp;logoColor=4D89D7" />
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-redux-F7F7F7?style=for-the-badge&amp;logo=redux&amp;logoColor=F05237" />
   <img alt="Redux" src="https://img.shields.io/badge/-redux-F7F7F7?style=for-the-badge&amp;logo=redux&amp;logoColor=F05237" />
@@ -43,7 +48,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-node.js-24292F?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=4D89D7" />
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-node.js-F7F7F7?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=F05237" />
-  <img alt="Redux" src="https://img.shields.io/badge/-node.js-F7F7F7?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=F05237" />
+  <img alt="Node.JS" src="https://img.shields.io/badge/-node.js-F7F7F7?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=F05237" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-nextjs-24292F?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=4D89D7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-nextjs-F7F7F7?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=F05237" />
+  <img alt="NextJS" src="https://img.shields.io/badge/-nextjs-F7F7F7?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=F05237" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-html5-24292F?style=for-the-badge&amp;logo=html5&amp;logoColor=4D89D7" />
@@ -86,6 +96,11 @@
   <img alt="API" src="https://img.shields.io/badge/-rest_api-F7F7F7?style=for-the-badge&amp;logo=fastapi&amp;logoColor=F05237" />
 </picture>
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-git-24292F?style=for-the-badge&amp;logo=git&amp;logoColor=4D89D7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-git-F7F7F7?style=for-the-badge&amp;logo=git&amp;logoColor=F05237" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-git-F7F7F7?style=for-the-badge&amp;logo=git&amp;logoColor=F05237" />
+</picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Storybook-24292F?style=for-the-badge&amp;logo=Storybook&amp;logoColor=4D89D7" />
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Storybook-F7F7F7?style=for-the-badge&amp;logo=Storybook&amp;logoColor=F05237" />
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-F7F7F7?style=for-the-badge&amp;logo=Storybook&amp;logoColor=F05237" />
@@ -94,11 +109,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-jest&nbsp;/&nbsp;Unit&nbsp;Test-24292F?style=for-the-badge&amp;logo=jest&amp;logoColor=4D89D7" />
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-jest&nbsp;/&nbsp;Unit&nbsp;Test-F7F7F7?style=for-the-badge&amp;logo=jest&amp;logoColor=F05237" />
   <img alt="Jest" src="https://img.shields.io/badge/-jest&nbsp;/&nbsp;Unit&nbsp;Test-F7F7F7?style=for-the-badge&amp;logo=jest&amp;logoColor=F05237" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-git-24292F?style=for-the-badge&amp;logo=git&amp;logoColor=4D89D7" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-git-F7F7F7?style=for-the-badge&amp;logo=git&amp;logoColor=F05237" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-git-F7F7F7?style=for-the-badge&amp;logo=git&amp;logoColor=F05237" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-docker-24292F?style=for-the-badge&amp;logo=docker&amp;logoColor=4D89D7" />
