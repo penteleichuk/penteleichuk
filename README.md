@@ -51,9 +51,9 @@
   <img alt="Node.JS" src="https://img.shields.io/badge/-node.js-F7F7F7?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=F05237" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-nextjs-24292F?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=4D89D7" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-nextjs-F7F7F7?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=F05237" />
-  <img alt="NextJS" src="https://img.shields.io/badge/-nextjs-F7F7F7?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=F05237" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-nestjs-24292F?style=for-the-badge&amp;logo=nestjs&amp;logoColor=4D89D7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-nestjs-F7F7F7?style=for-the-badge&amp;logo=nestjs&amp;logoColor=F05237" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-nestjs-F7F7F7?style=for-the-badge&amp;logo=nestjs&amp;logoColor=F05237" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-html5-24292F?style=for-the-badge&amp;logo=html5&amp;logoColor=4D89D7" />
