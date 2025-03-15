@@ -126,8 +126,8 @@
   <br />
   <summary><b><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="16" height="16" /> Things I use to get stuff done</b></summary>
   	<ul>
-  	  <li><b>OS:</b> macOS Sonoma 14.4.1</li>
-	    <li><b>Laptop: </b> MacBook Pro M1</li>
+  	  <li><b>OS:</b> macOS Sequaio 15.3.1</li>
+	    <li><b>Laptop: </b> MacBook Pro M3 MAX</li>
   	  <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> iTerm</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
